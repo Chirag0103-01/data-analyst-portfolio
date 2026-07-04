@@ -32,7 +32,7 @@ Key Findings:
 - 💡 **73% of customers are non-subscribers** but still make up most of the revenue — a clear opportunity to grow the loyalty programme
 - 🏷️ Customers who used a discount spent slightly **less on average ($59.28) vs those who did not ($60.13)** — discounts attract deal-seekers, not high-value buyers
 
-📂 [View Project Files](./01-customer-shopping-behaviour)
+
 
 
 
